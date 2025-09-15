@@ -50,4 +50,14 @@ Data cleaning and visualization of the Titanic dataset with an interactive Plotl
    ```bash
    pip install -r requirements.txt
    ```
+   ---
+## Snapshots
+1. Interactive ScatterPlot
+   <img width="545" height="566" alt="image" src="https://github.com/user-attachments/assets/27eb8320-a25a-43ce-8d4b-e54bdf125feb" />
+   <img width="543" height="561" alt="image" src="https://github.com/user-attachments/assets/794c9b1f-0933-480e-a9c0-69b2d5992639" />
+
+2.Interactive violin
+  <img width="545" height="563" alt="image" src="https://github.com/user-attachments/assets/210bc954-911f-46d4-8a22-97a9ab0975fd" />
+  <img width="541" height="561" alt="image" src="https://github.com/user-attachments/assets/b4faaff6-ba32-4e9f-8c74-f3abdab35c9b" />
+
 
